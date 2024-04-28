@@ -1,0 +1,16 @@
+html,
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+#header-image {
+	display: block;
+	margin: 0 auto;
+	width: 200px;
+	height: auto;
+}
+h1 {
+	text-align: center;
+	font-size: 3rem;
+	color: #fff;
+}
